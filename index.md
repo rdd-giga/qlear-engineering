@@ -1,27 +1,8 @@
-### Who We Are:
-QLEAR is helping to create healthier, more efficient, and green buildings by allowing them to communicate with the people who live, work, and play in them. QLEAR is an hardware agnostic platform that tells you about and improves indoor environmental quality and building performance. With over eight hundred live installations across fourteen countries, QLEAR is the market leader for building performance monitoring and intelligence. Come join a small team, passionate about environmental sustainability to help build an open, highly scalable platform.
+##### QLEAR is helping to create healthier, more efficient, and green buildings by allowing them to communicate with the people who live, work, and play in them. QLEAR is an hardware agnostic platform that tells you about and improves indoor environmental quality and building performance. Come join a small team, passionate about environmental sustainability to help build an open, highly scalable platform.
 
 ---
 
-## Frontend Engineer
-Location: Shanghai  
-Stack: React.js, High Charts, eCharts, Node.js, Webpack, Gulp, Git
-
-##### What will you do?
-- Write clean, tested, and reusable UI code that changes how people understand the indoor environment
-- Work with Product Designers to build analytics, data visualization, and mapping applications
-- Partner with mobile and design teams to design and build beautiful, responsive user interfaces
-
-##### What are we looking for?
-- Experience shipping quality consumer web products using React, Flux, and CSS
-- Experience with visualization libraries such as D3, Highcharts, or ECharts
-- Firm understanding of Agile software development and Git
-- Embraces a DevOps philosophy, closely collaborating with QA and operations engineers throughout the full product lifecycle
-- Comfortable working in English. Our team has a variety of English and Chinese levels, being able and willing to communicate in either language is preferred
-
----
-
-## Backend Engineer
+## [Backend Engineer](https://qlear.peoplehr.net/Pages/JobBoard/Opening.aspx?v=29340108-64af-48d7-b8f2-c2a202a391ef)
 Location:  Shanghai  
 Stack: Ruby on Rails, Redis, MySQL, Docker/LXC, Git
 
@@ -41,7 +22,25 @@ Stack: Ruby on Rails, Redis, MySQL, Docker/LXC, Git
 
 ---
 
-## QA Engineer
+## [Frontend Engineer](https://qlear.peoplehr.net/Pages/JobBoard/Opening.aspx?v=8d49ff34-8257-4d54-94e5-c701ac46c6f1)
+Location: Shanghai  
+Stack: React.js, High Charts, eCharts, Node.js, Webpack, Gulp, Git
+
+##### What will you do?
+- Write clean, tested, and reusable UI code that changes how people understand the indoor environment
+- Work with Product Designers to build analytics, data visualization, and mapping applications
+- Partner with mobile and design teams to design and build beautiful, responsive user interfaces
+
+##### What are we looking for?
+- Experience shipping quality consumer web products using React, Flux, and CSS
+- Experience with visualization libraries such as D3, Highcharts, or ECharts
+- Firm understanding of Agile software development and Git
+- Embraces a DevOps philosophy, closely collaborating with QA and operations engineers throughout the full product lifecycle
+- Comfortable working in English. Our team has a variety of English and Chinese levels, being able and willing to communicate in either language is preferred
+
+---
+
+## [QA Engineer](https://qlear.peoplehr.net/Pages/JobBoard/Opening.aspx?v=b153ccdf-8e39-4b43-9ff6-6d58bf43e495)
 Location: Shanghai  
 Stack: TravisCI/Jenkins, React, Ruby, Saltstack/Ansible + Docker/LXC (or similar technologies)
 
@@ -58,7 +57,7 @@ Stack: TravisCI/Jenkins, React, Ruby, Saltstack/Ansible + Docker/LXC (or similar
 
 ---
 
-## Technical Operations Engineer
+## [Technical Operations Engineer]( https://qlear.peoplehr.net/Pages/JobBoard/Opening.aspx?v=f40231bf-1c00-4f8e-8502-d0e66223dc52)
 Location: Shanghai  
 Stack: Linux, Python, Saltstack/Ansible + Docker/LXC (or similar technologies)
 
@@ -76,7 +75,25 @@ Stack: Linux, Python, Saltstack/Ansible + Docker/LXC (or similar technologies)
 
 ---
 
-## Partner Support / Jr. QA Technician
+## [Mobile Development Engineer](https://qlear.peoplehr.net/Pages/JobBoard/Opening.aspx?v=40d07cbd-9d2c-438e-9fb6-72ff087ede0e)
+Location: Shanghai  
+Stack: React-native, React, High Charts, eCharts, Node.js, Webpack, Gulp, Git (or similar technologies)
+
+##### What will you do?
+- Write clean, tested, and reusable code for our mobile applications that changes how people understand the indoor environment
+- Work with Product Designers to build analytics, data visualization, and mapping applications
+- Partner with designers and web application engineers to design and build beautiful, responsive user interfaces
+
+##### What are we looking for?
+- Experience shipping quality consumer mobile applications using React-native or Java / Swift
+- Experience with visualization libraries such as D3, Highcharts, or ECharts
+- Firm understanding of Agile software development and Git
+- Embraces a DevOps philosophy, closely collaborating with QA and operations engineers throughout the full product lifecycle
+- Comfortable working in English. Our team has a variety of English and Chinese levels, being able and willing to communicate in either language is preferred
+
+---
+
+## [Partner Support / Jr. QA Technician](https://qlear.peoplehr.net/Pages/JobBoard/Opening.aspx?v=b235a497-70d7-4236-9048-3faa08b6f071)
 Location: Shanghai
 
 ##### What will you do?
@@ -95,25 +112,7 @@ Location: Shanghai
 
 ---
 
-## Mobile Development Engineer
-Location: Shanghai  
-Stack: React-native, React, High Charts, eCharts, Node.js, Webpack, Gulp, Git (or similar technologies)
-
-##### What will you do?
-- Write clean, tested, and reusable code for our mobile applications that changes how people understand the indoor environment
-- Work with Product Designers to build analytics, data visualization, and mapping applications
-- Partner with designers and web application engineers to design and build beautiful, responsive user interfaces
-
-##### What are we looking for?
-- Experience shipping quality consumer mobile applications using React-native or Java / Swift
-- Experience with visualization libraries such as D3, Highcharts, or ECharts
-- Firm understanding of Agile software development and Git
-- Embraces a DevOps philosophy, closely collaborating with QA and operations engineers throughout the full product lifecycle
-- Comfortable working in English. Our team has a variety of English and Chinese levels, being able and willing to communicate in either language is preferred
-
----
-
-## Product Designer
+## [Product Designer](https://qlear.peoplehr.net/Pages/JobBoard/Opening.aspx?v=14f76773-4ea3-4643-99da-f02945221bbf)
 Location: Shanghai  
 Stack: Adobe Suite, Sketch, Git (or similar technologies)
 
@@ -130,4 +129,3 @@ Stack: Adobe Suite, Sketch, Git (or similar technologies)
 - Some experience with front-end programming
 - An online portfolio, or PDF that you can share
 - Comfortable working in English. Our team has a variety of English and Chinese levels, being able and willing to communicate in either language is preferred
-
