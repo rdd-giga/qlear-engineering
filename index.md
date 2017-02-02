@@ -2,7 +2,8 @@
 QLEAR is helping to create healthier, more efficient, and green buildings by allowing them to communicate with the people who live, work, and play in them. QLEAR is an hardware agnostic platform that tells you about and improves indoor environmental quality and building performance. With over eight hundred live installations across fourteen countries, QLEAR is the market leader for building performance monitoring and intelligence. Come join a small team, passionate about environmental sustainability to help build an open, highly scalable platform.
 
 ---
-### Frontend Engineer
+
+## Frontend Engineer
 Location: Shanghai  
 Stack: React.js, High Charts, eCharts, Node.js, Webpack, Gulp, Git
 
@@ -19,6 +20,7 @@ Stack: React.js, High Charts, eCharts, Node.js, Webpack, Gulp, Git
 - Comfortable working in English. Our team has a variety of English and Chinese levels, being able and willing to communicate in either language is preferred
 
 ---
+
 ## Backend Engineer
 Location:  Shanghai  
 Stack: Ruby on Rails, Redis, MySQL, Docker/LXC, Git
@@ -38,6 +40,7 @@ Stack: Ruby on Rails, Redis, MySQL, Docker/LXC, Git
 - Comfortable working in English. Our team has a variety of English and Chinese levels, being able and willing to communicate in either language is preferred
 
 ---
+
 ## QA Engineer
 Location: Shanghai  
 Stack: TravisCI/Jenkins, React, Ruby, Saltstack/Ansible + Docker/LXC (or similar technologies)
