@@ -1,4 +1,4 @@
-##### QLEAR is helping to create healthier, more efficient, and green buildings by allowing them to communicate with the people who live, work, and play in them. QLEAR is an hardware agnostic platform that tells you about and improves indoor environmental quality and building performance. Come join a small team, passionate about environmental sustainability to help build an open, highly scalable platform.
+##### QLEAR is helping to create healthier, more efficient, and green buildings by allowing them to communicate with the people who live, work, and play in them. Come join a small team, passionate about environmental sustainability to help build an open, highly scalable platform.
 
 ---
 
