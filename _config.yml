@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               QLEAR.build
+tagline:             Engineering Jobs
+url:                 https://qlear.build
 paginate:            1
 baseurl:             "https://rdd-giga.github.io/qlear-engineering/"
 
